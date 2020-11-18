@@ -2,7 +2,7 @@
 
 This project implements a basic web-based MongoDB admin interface on a Minikube kubernetes cluster.
 
-![](images/k8-flow.jpg)
+![](resources/k8-flow.jpg)
 
 ## Prerequisite
 
